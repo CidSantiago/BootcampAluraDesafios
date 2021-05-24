@@ -1,0 +1,43 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Valor total por Unidade da Federação e Ano/mês processamento
+Período:Mar/2021
+"Unidade da Federação";"2021/Mar";"Total"
+"11 Rondônia";11023309,47;11023309,47
+"12 Acre";4077045,92;4077045,92
+"13 Amazonas";22032176,22;22032176,22
+"14 Roraima";3985530,08;3985530,08
+"15 Pará";33276392,89;33276392,89
+"16 Amapá";3188210,98;3188210,98
+"17 Tocantins";1357751,33;1357751,33
+"21 Maranhão";39663677,48;39663677,48
+"22 Piauí";20018325,75;20018325,75
+"23 Ceará";62079618,54;62079618,54
+"24 Rio Grande do Norte";23306498,68;23306498,68
+"25 Paraíba";25750897,89;25750897,89
+"26 Pernambuco";83870992,73;83870992,73
+"27 Alagoas";22118639,05;22118639,05
+"28 Sergipe";13321494,41;13321494,41
+"29 Bahia";98746333,07;98746333,07
+"31 Minas Gerais";200471045,07;200471045,07
+"32 Espírito Santo";45490499,45;45490499,45
+"33 Rio de Janeiro";106837295,81;106837295,81
+"35 São Paulo";392946147,42;392946147,42
+"41 Paraná";140264608,52;140264608,52
+"42 Santa Catarina";81376630,57;81376630,57
+"43 Rio Grande do Sul";130155185,16;130155185,16
+"50 Mato Grosso do Sul";25168195,34;25168195,34
+"51 Mato Grosso";19611032,61;19611032,61
+"52 Goiás";45592686,49;45592686,49
+"53 Distrito Federal";31831917,45;31831917,45
+"Total";1687562138,38;1687562138,38
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
